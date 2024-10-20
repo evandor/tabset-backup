@@ -4,12 +4,12 @@
       "id": "f204102a-a712-4954-b269-fc8c881e9d1b",
       "name": "first",
       "created": 1729324570668,
-      "updated": 1729349259355,
+      "updated": 1729349259367,
       "tabs": [
         {
           "created": 1729325516924,
           "updated": 1729325516924,
-          "lastActive": 1729349259355,
+          "lastActive": 1729349259367,
           "activatedCount": 9,
           "loadedCount": 0,
           "chromeTabId": 48555421,
@@ -220,7 +220,7 @@
         {
           "created": 1729325248848,
           "updated": 1729325248848,
-          "lastActive": 1729349259355,
+          "lastActive": 1729349259367,
           "activatedCount": 11,
           "loadedCount": 0,
           "chromeTabId": 48555421,
@@ -647,7 +647,7 @@
         {
           "created": 1729325216314,
           "updated": 1729325216314,
-          "lastActive": 1729349259355,
+          "lastActive": 1729349259367,
           "activatedCount": 12,
           "loadedCount": 0,
           "chromeTabId": 48555421,
