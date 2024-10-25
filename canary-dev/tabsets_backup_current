@@ -1,0 +1,22 @@
+{
+  "tabsets": [
+    {
+      "id": "0d753a41-304e-46f5-8acc-3ece4079b56f",
+      "name": "ts1",
+      "created": 1729859793550,
+      "updated": 1729859793550,
+      "tabs": [],
+      "folders": [],
+      "columns": [],
+      "spaces": [],
+      "view": "grid",
+      "sorting": "custom",
+      "status": "DEFAULT",
+      "type": "DEFAULT",
+      "sharing": "UNSHARED",
+      "window": "current",
+      "origin": ""
+    }
+  ],
+  "spaces": []
+}
