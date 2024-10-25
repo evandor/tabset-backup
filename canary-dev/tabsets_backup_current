@@ -2,14 +2,15 @@
   "tabsets": [
     {
       "id": "0d753a41-304e-46f5-8acc-3ece4079b56f",
-      "name": "ts1",
+      "name": "ts1...",
       "created": 1729859793550,
-      "updated": 1729859793550,
+      "updated": 1729864136600,
       "tabs": [],
       "folders": [],
       "columns": [],
       "spaces": [],
       "view": "grid",
+      "details": "SOME",
       "sorting": "custom",
       "status": "DEFAULT",
       "type": "DEFAULT",
